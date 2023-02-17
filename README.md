@@ -7,3 +7,6 @@
 
 ### VirtualTable folder:
     **OrderView** - (sql script)
+### Queries folder:
+    **MenuNameANYMoreThan2** - (sql script)
+    **TotalCostUp150** - (sql script)
