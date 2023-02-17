@@ -4,3 +4,6 @@
 ### Database folder:
     **Model** LittleLemonDM - (Model)
     **Script** LittleLemonDB - (sql script)
+
+### VirtualTable folder:
+    **OrderView** - (sql script)
